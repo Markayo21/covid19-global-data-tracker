@@ -40,6 +40,6 @@ This project analyzes and visualizes global COVID-19 data using Python. It provi
 
 ## 🔗 Project Link
 
-[👉 View the GitHub Repository](https://github.com/Markayo21/covid19-global-data-tracker)
+[👉 View the GitHub Repository](https://github.com/Markayo21/covid19-global-data-tracker.git)
 
   
